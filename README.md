@@ -1,5 +1,5 @@
 # diffmerge
-[![Build Status](https://travis-ci.org/wallymathieu/diffmerge-clj.svg?branch=master)](https://travis-ci.org/wallymathieu/diffmerge-clj)
+[![Build Status](https://www.travis-ci.com/wallymathieu/diffmerge-clj.svg?branch=main)](https://www.travis-ci.com/wallymathieu/diffmerge-clj)
 [![codecov](https://codecov.io/gh/wallymathieu/diffmerge-clj/branch/master/graph/badge.svg)](https://codecov.io/gh/wallymathieu/diffmerge-clj)
 [![Clojars Project](https://img.shields.io/clojars/v/diffmerge.svg)](https://clojars.org/diffmerge)
 
